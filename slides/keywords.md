@@ -34,3 +34,5 @@ will print
 
 ## Check out:
 https://www.w3schools.com/python/default.asp
+
+[Previous](/slides/classes.md) \

@@ -18,4 +18,5 @@ importing as
 import math as maths
 ```
 
-Check out the [example code](../assets/examples/web_request.py)
+[Example code](../assets/examples/web_request.py)\
+[Previous](/slides/hello_world.md) [Next](/slides/classes.md)

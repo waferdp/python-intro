@@ -26,3 +26,5 @@ if __name__ == '__main__':
     print("This text only prints if this file is the entry point")
 ```
 And also this [example](../assets/examples/classy.py) of entry point side effects
+
+[Previous](/slides/making_a_web_request.md) [Next](/slides/keywords.md)
